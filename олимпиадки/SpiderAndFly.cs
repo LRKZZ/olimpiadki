@@ -7,7 +7,7 @@
         const int Z = 2;
         static void Main()
         {
-            string path = @"C:\Users\QForm\source\repos\flySpider\flySpider\input.txt";
+            string path = @"C:\Users\sashu\source\repos\SpiderAndFly\SpiderAndFly\input.txt";
 
             int[] size = new int[3];
             int[] spider_XYZ = new int[3];
